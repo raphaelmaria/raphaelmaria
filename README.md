@@ -27,7 +27,7 @@ Formado em Tecnológia de Redes e Computadores, atuo no mercado de tecnológia c
 <table border="0">
  <tr>
   <td>
-   <img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/ion.jpg" alt="ION Tecnologia" position="center" height="100px" width="120px">
+   <img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/ion.jpg" alt="ION Tecnologia" align="center" height="100px" width="120px">
   </td>
   <td>
    <img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/BioRitmoLogo.png" alt="BioRitmo" height="100px" width="80px">
