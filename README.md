@@ -5,7 +5,7 @@ Formado em Tecnológia de Redes e Computadores, atuo no mercado de tecnológia c
    
 # Como entrar em contato:
   <a href="https://www.facebook.com/fawgamer" rel="nofollow noreferrer">
-      <img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Social_Media/facebook.png" alt="facebook" heigth="20" weigth="20">
+      <img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Social_Media/facebook.png" alt="facebook" height="20" width="20">
  </a> &nbsp; 
  <a href="https://twitter.com/RaphaelOMaria" rel="nofollow noreferrer">
         <img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Social_Media/twitter.png" alt="twitter">
