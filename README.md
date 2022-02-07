@@ -27,7 +27,7 @@ Programção: ![Powershell]() ![Shell]()  ![Markdown]() ![Python]()
 
 Cloud: ![Microsoft Azure]() ![Amazon AWS]() ![Google Cloud]()
 
-Orquestração: ![Ansible](logos:ansible) [TerraForm]() [Jenkins]()
+Orquestração: ![Ansible](https://api.iconify.design/logos:ansible.svg?color=currentColor) [TerraForm]() [Jenkins]()
 
 Hypervisor Onpromisse: ![VMware]() ![Ovirt]() ![Proxmox]()
 
