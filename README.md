@@ -5,17 +5,20 @@ Formado em Tecnológia de Redes e Computadores, atuo no mercado de tecnológia c
    
 # Como entrar em contato:
   <a href="https://www.facebook.com/fawgamer" rel="nofollow noreferrer">
-      <img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Social_Media/fb.png" alt="facebook">
+      <img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Social_Media/facebook.png" alt="facebook">
  </a> &nbsp; 
  <a href="https://twitter.com/RaphaelOMaria" rel="nofollow noreferrer">
         <img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Social_Media/twitter.png" alt="twitter">
  </a> &nbsp;
  <a href="https://www.linkedin.com/in/raphaelaomaria/" rel="nofollow noreferrer">
-        <img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Social_Media/in.png" alt="linkedin">
+        <img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Social_Media/linkedin.png" alt="linkedin">
 </a> &nbsp;
 <a href="https://www.instagram.com/raphaelomaria/" rel="nofollow noreferrer">
-        <img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Social_Media/insta.png" alt="instagram">
+        <img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Social_Media/instagram.png" alt="instagram">
 </a>
+<a href="malito:raphael.maria@outlook.com?subject=Contato - Github" rel="nofollow noreferrer">
+  <img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Social_Media/outlook.png" alt="mail">
+ </a>
   
 ## Ferramentas
 OS (Desktop e Servidores): [Windows]() [Linux]() [MacOSX]()
