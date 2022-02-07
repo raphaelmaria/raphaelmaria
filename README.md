@@ -9,10 +9,10 @@ Formado em Tecnológia de Redes e Computadores, atuo no mercado de tecnológia c
 
 <p>
   <a href="https://www.linkedin.com/raphaelmaria" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin" height="50px" width="50px">
   </a> &nbsp; 
    <a href="https://www.facebook.com/fawgamer/" rel="nofollow noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="Facebook" height="20px" width="20px" > Facebook
+    <img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="Facebook" height="50px" width="50px" >
   </a>
 </p>
 
