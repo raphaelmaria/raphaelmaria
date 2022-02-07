@@ -21,7 +21,7 @@ Formado em Tecnológia de Redes e Computadores, atuo no mercado de tecnológia c
 </a>
   
 ## Ferramentas
-OS (Desktop e Servidores): [Windows](https://api.iconify.design/logos:microsoft-windows.svg?color=currentColor) [Linux](https://api.iconify.design/logos:linux-tux.svg?color=currentColor) [MacOSX](https://api.iconify.design/logos:macosx.svg?color=currentColor)
+OS (Desktop e Servidores): ![Windows](https://api.iconify.design/logos:microsoft-windows.svg?color=currentColor) | ![Linux](https://api.iconify.design/logos:linux-tux.svg?color=currentColor) | ![MacOSX](https://api.iconify.design/logos:macosx.svg?color=currentColor)
 
 Programção: ![Powershell](https://api.iconify.design/vscode-icons:file-type-powershell.svg?color=currentColor) ![Shell](https://api.iconify.design/cib:shell.svg?color=currentColor)  ![Markdown](https://api.iconify.design/cib:markdown.svg?color=currentColor) ![Python](https://api.iconify.design/vscode-icons:file-type-python.svg?color=currentColor)
 
