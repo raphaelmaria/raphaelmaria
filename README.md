@@ -11,16 +11,16 @@ Formado em Tecnológia de Redes e Computadores, atuo no mercado de tecnológia c
   
 <p>
     <a href="https://www.facebook.com/fawgamer" rel="nofollow noreferrer">
-      <img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Social_Media/fb.png" alt="facebook" height="640" width="118">
+      <img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Social_Media/fb.png" alt="facebook">
     </a> &nbsp; 
     <a href="https://twitter.com/RaphaelOMaria" rel="nofollow noreferrer">
-        <img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Social_Media/twitter.png" alt="twitter" height="640" width="118">
+        <img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Social_Media/twitter.png" alt="twitter">
     </a> &nbsp;
     <a href="https://www.linkedin.com/in/raphaelaomaria/" rel="nofollow noreferrer">
-        <img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Social_Media/in.png" alt="linkedin" height="640" width="118">
+        <img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Social_Media/in.png" alt="linkedin">
     </a> &nbsp;
     <a href="https://www.instagram.com/raphaelomaria/" rel="nofollow noreferrer">
-        <img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Social_Media/insta.png" alt="instagram" height="640" width="118">
+        <img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Social_Media/insta.png" alt="instagram">
     </a>
 </p>
   
