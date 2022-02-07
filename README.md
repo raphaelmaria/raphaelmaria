@@ -1,3 +1,11 @@
+# Atualizações
+<table>
+  <tr>
+    <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelmaria&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</td>
+    <td>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaelmaria)](https://github.com/anuraghazra/github-readme-stats)</td>
+  </tr>
+</table>
+
 
 # Olá, Eu sou Raphael Maria
   
@@ -59,6 +67,8 @@ Designer Gráfico:
     <td><img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/Nomah.png" alt="" height="100" width="140"></td>
   </tr>
  </table>
+ 
+
 
 ## Vem jogar comigo:
 ![FawGamer#4107](https://api.iconify.design/mdi:microsoft-xbox.svg?color=currentColor) |  ![BrickSlow](https://api.iconify.design/cib:playstation4.svg?color=currentColor) | ![https://discord.com/channels/521298356820115466/521298356820115472](https://api.iconify.design/mdi:discord.svg?color=currentColor)
