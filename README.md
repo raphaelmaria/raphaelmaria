@@ -19,9 +19,13 @@ Formado em Tecnológia de Redes e Computadores, atuo no mercado de tecnológia c
   
 ## Ferramentas
 OS (Desktop e Servidores): [Windows]() [Linux]() [MacOSX]()
+
 Programção: ![Powershell]() ![Shell]()  ![Markdown]() ![Python]()
+
 Cloud: ![Microsoft Azure]() ![Amazon AWS]() ![Google Cloud]()
+
 Orquestração: ![Ansible]() [TerraForm]() [Jenkins]()
+
 Hypervisor Onpromisse: ![VMware]() ![Ovirt]() ![Proxmox]()
 
 Outras:
