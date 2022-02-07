@@ -6,7 +6,7 @@ Formado em Tecnológia de Redes e Computadores, atuo no mercado de tecnológia c
 # Como entrar em contato:
  <a href="https://www.facebook.com/fawgamer" rel="nofollow noreferrer">
       <img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Social_Media/facebook.png" alt="facebook" height="30" width="30">
- </a> &nbsp; 
+ </a>
  <a href="https://twitter.com/RaphaelOMaria" rel="nofollow noreferrer">
         <img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Social_Media/twitter.png" alt="twitter" height="30" width="30">
  </a> &nbsp;
@@ -60,3 +60,11 @@ Designer Gráfico:
   </tr>
  </table>
 
+# Vem jogar comigo:
+<table>
+  <tr>
+    <td><a href="https://social.xbox.com/FawGamer#4107" rel="nofollow noreferrer">
+        <img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Social_Media/xbox-logo.png" alt="" height="30" width="30">
+ </a> &nbsp;</td>
+  </tr>
+</table>
