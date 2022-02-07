@@ -17,8 +17,8 @@ Formado em Tecnológia de Redes e Computadores, atuo no mercado de tecnológia c
         <img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Social_Media/instagram.png" alt="instagram" height="30" width="30">
 </a> &nbsp;
 <a href="malito:raphael.maria@outlook.com?subject=Contato - Github" rel="nofollow noreferrer">
-  <img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Social_Media/outlook.png" alt="mail" height="30" width="30">
- </a>
+        <img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Social_Media/outlook.png" alt="mail" height="30" width="30">
+</a>
   
 ## Ferramentas
 OS (Desktop e Servidores): [Windows]() [Linux]() [MacOSX]()
