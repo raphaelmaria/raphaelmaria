@@ -5,19 +5,19 @@ Formado em Tecnológia de Redes e Computadores, atuo no mercado de tecnológia c
    
 # Como entrar em contato:
   <a href="https://www.facebook.com/fawgamer" rel="nofollow noreferrer">
-      <img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Social_Media/facebook.png" alt="facebook" height="20" width="20">
+      <img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Social_Media/facebook.png" alt="facebook" height="30" width="30">
  </a> &nbsp; 
  <a href="https://twitter.com/RaphaelOMaria" rel="nofollow noreferrer">
-        <img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Social_Media/twitter.png" alt="twitter">
+        <img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Social_Media/twitter.png" alt="twitter" height="30" width="30">
  </a> &nbsp;
  <a href="https://www.linkedin.com/in/raphaelaomaria/" rel="nofollow noreferrer">
-        <img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Social_Media/linkedin.png" alt="linkedin">
+        <img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Social_Media/linkedin.png" alt="linkedin" height="30" width="30">
 </a> &nbsp;
 <a href="https://www.instagram.com/raphaelomaria/" rel="nofollow noreferrer">
-        <img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Social_Media/instagram.png" alt="instagram">
+        <img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Social_Media/instagram.png" alt="instagram" height="30" width="30">
 </a>
 <a href="malito:raphael.maria@outlook.com?subject=Contato - Github" rel="nofollow noreferrer">
-  <img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Social_Media/outlook.png" alt="mail">
+  <img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Social_Media/outlook.png" alt="mail" height="30" width="30">
  </a>
   
 ## Ferramentas
