@@ -49,6 +49,7 @@ Designer Gráfico:
     <td><img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/SondaIT.png" alt="sonda" height="100" width="140"></td>
     <td><img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/WJTI.png" alt="" height="100" width="140"></td>
     <td><img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/PHS.png" alt="" height="100" width="140"></td>
+    <td><img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/HMO.png" alt="" height="100" width="140"></td>
   </tr>
   <tr>
     <td><img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/ITUniverse.png" alt="" height="100" width="140"></td>
