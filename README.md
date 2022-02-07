@@ -47,20 +47,15 @@ Designer Gráfico:
     <td><img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/BioRitmo.png" alt="bioritmo" height="100" width="140"></td>
     <td><img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/ION.png" alt="ion" height="100" width="140"></td>
     <td><img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/SondaIT.png" alt="sonda" height="100" width="140"></td>
-     <td><img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/WJTI.png" alt="" height="100" width="140"></td>
+    <td><img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/WJTI.png" alt="" height="100" width="140"></td>
+    <td><img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/PHS.png" alt="" height="100" width="140"></td>
   </tr>
   <tr>
     <td><img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/ITUniverse.png" alt="" height="100" width="140"></td>
     <td><img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/Loft.png" alt="" height="100" width="140"></td>
     <td><img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/Mazza.png" alt="" height="100" width="140"></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/Nomah.png" alt="" height="100" width="140"></td>
-    <td><img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/PHS.png" alt="" height="100" width="140"></td>
     <td><img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/SmartFit.png" alt="" height="100" width="140"></td>
+    <td><img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/Nomah.png" alt="" height="100" width="140"></td>
   </tr>
-  <tr>
-    <td><img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/WJTI.png" alt="" height="100" width="140"></td>
-  </tr>
-</table>
+ </table>
 
