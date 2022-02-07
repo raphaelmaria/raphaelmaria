@@ -28,5 +28,41 @@ Formado em Tecnológia de Redes e Computadores, atuo no mercado de tecnológia c
 
 
 # Empresas que já atuei:
+<table>
+ <tr>
+  <td>
+   <img src="https://imgur.com/xGZD95L" alt="linkedin" height="100px" width="100px"> ION Tecnológia
+  </td>
+  <td>
+   <img src="https://imgur.com/xGZD95L" alt="linkedin" height="100px" width="100px"> ION Tecnológia
+  </td>
+  <td>
+   <img src="https://imgur.com/xGZD95L" alt="linkedin" height="100px" width="100px"> ION Tecnológia
+  </td>
+ </tr>
+ <tr>
+  <img src="https://imgur.com/xGZD95L" alt="linkedin" height="100px" width="100px"> ION Tecnológia
+  <td>
+  </td>
+  <td>
+   <img src="https://imgur.com/xGZD95L" alt="linkedin" height="100px" width="100px"> ION Tecnológia
+  </td>
+  <td>
+   <img src="https://imgur.com/xGZD95L" alt="linkedin" height="100px" width="100px"> ION Tecnológia
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <img src="https://imgur.com/xGZD95L" alt="linkedin" height="100px" width="100px"> ION Tecnológia
+  </td>
+  <td>
+   <img src="https://imgur.com/xGZD95L" alt="linkedin" height="100px" width="100px"> ION Tecnológia
+  </td>
+  <td>
+   <img src="https://imgur.com/xGZD95L" alt="linkedin" height="100px" width="100px"> ION Tecnológia
+  </td>
+ </tr>
+</table>
+
 ![Smart-Fit](https://github.com/raphaelmaria/raphaelmaria/blob/main/SmartFit.png) ![IT Universe](https://github.com/raphaelmaria/raphaelmaria/blob/main/logo-it.png) ![ION Tecnológia](https://github.com/raphaelmaria/raphaelmaria/blob/main/ion.jpg) ![Bio Ritmo](https://github.com/raphaelmaria/raphaelmaria/blob/main/BioRitmoLogo.png) ![PHS Brasil](https://github.com/raphaelmaria/raphaelmaria/blob/main/phs_logo.png) ![WJTI](https://github.com/raphaelmaria/raphaelmaria/blob/main/WJTI_v2.jpg)
 ![LOFT](https://github.com/raphaelmaria/raphaelmaria/blob/main/Loft_Logo.png) ![Nomah](https://github.com/raphaelmaria/raphaelmaria/blob/main/Nomah_Logo.png) ![Mazzatech](https://github.com/raphaelmaria/raphaelmaria/blob/main/Mazzatech_logo.png)
