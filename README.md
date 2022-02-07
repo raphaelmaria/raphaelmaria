@@ -61,4 +61,4 @@ Designer Gráfico:
  </table>
 
 # Vem jogar comigo:
-![FawGamer#4107](https://api.iconify.design/mdi:microsoft-xbox.svg?color=currentColor) |  ![BrickSlow](https://api.iconify.design/cib:playstation4.svg?color=currentColor) | ![FawGamer#5497](https://api.iconify.design/mdi:discord.svg?color=currentColor)
+## ![FawGamer#4107](https://api.iconify.design/mdi:microsoft-xbox.svg?color=currentColor) |  ![BrickSlow](https://api.iconify.design/cib:playstation4.svg?color=currentColor) | ![FawGamer#5497](https://api.iconify.design/mdi:discord.svg?color=currentColor)
