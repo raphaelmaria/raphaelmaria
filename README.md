@@ -1,5 +1,8 @@
 
-
+<p>
+  <a href="https://www.linkedin.com/raphaelmaria" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin" height="50px" width="50px">
+  </a> &nbsp; 
 
 # Olá, Eu sou Raphael Maria
 
