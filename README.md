@@ -1,15 +1,10 @@
 
-<a>
-    <img src="https://i.imgur.com/F6j40Qd.jpg" alt="linkedin" height="50" width="100">
-</a> &nbsp; 
-  
 # Olá, Eu sou Raphael Maria
   
 Formado em Tecnológia de Redes e Computadores, atuo no mercado de tecnológia como consultor e técnico na área de infraestrutura com serviços de suporte, treinamento e consultor de novas tecnologias.
    
 # Como entrar em contato:
   
-<p>
     <a href="https://www.facebook.com/fawgamer" rel="nofollow noreferrer">
       <img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Social_Media/fb.png" alt="facebook">
     </a> &nbsp; 
@@ -22,7 +17,6 @@ Formado em Tecnológia de Redes e Computadores, atuo no mercado de tecnológia c
     <a href="https://www.instagram.com/raphaelomaria/" rel="nofollow noreferrer">
         <img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Social_Media/insta.png" alt="instagram">
     </a>
-</p>
   
 # Ferramentas e Linguagens que domino:
 ## Programação
