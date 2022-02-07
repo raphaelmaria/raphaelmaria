@@ -28,7 +28,7 @@ Formado em Tecnológia de Redes e Computadores, atuo no mercado de tecnológia c
 
 
 # Empresas que já atuei:
-<table>
+<table border="0">
  <tr>
   <td>
    <img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/ion.jpg" alt="linkedin" height="100px" width="120px">
