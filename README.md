@@ -1,9 +1,3 @@
-# Atualizações
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelmaria&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaelmaria)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 # Olá, Eu sou Raphael Maria
   
 Formado em Tecnológia de Redes e Computadores, atuo no mercado de tecnológia como consultor e técnico na área de infraestrutura com serviços de suporte, treinamento e consultor de novas tecnologias.
@@ -65,7 +59,11 @@ Designer Gráfico:
   </tr>
  </table>
  
+# Atualizações
+[![Raphael Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaelmaria)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelmaria&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Vem jogar comigo:
 ![FawGamer#4107](https://api.iconify.design/mdi:microsoft-xbox.svg?color=currentColor) |  ![BrickSlow](https://api.iconify.design/cib:playstation4.svg?color=currentColor) | ![https://discord.com/channels/521298356820115466/521298356820115472](https://api.iconify.design/mdi:discord.svg?color=currentColor)
+
