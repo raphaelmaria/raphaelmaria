@@ -27,7 +27,7 @@ Programção: ![Powershell](https://api.iconify.design/vscode-icons:file-type-po
 
 Cloud: ![Microsoft Azure](https://api.iconify.design/logos:azure.svg?color=currentColor) ![Amazon AWS](https://api.iconify.design/logos:aws.svg?color=currentColor) ![Google Cloud](https://api.iconify.design/vscode-icons:folder-type-gcp.svg?color=currentColor)
 
-Orquestração: ![Ansible](https://api.iconify.design/simple-icons:ansible.svg?color=currentColor) [TerraForm](https://api.iconify.design/logos:terraform.svg?color=currentColor) [Jenkins](https://api.iconify.design/vscode-icons:file-type-jenkins.svg?color=currentColor)
+Orquestração: ![Ansible](https://api.iconify.design/simple-icons:ansible.svg?color=currentColor) ![TerraForm](https://api.iconify.design/logos:terraform.svg?color=currentColor) ![Jenkins](https://api.iconify.design/vscode-icons:file-type-jenkins.svg?color=currentColor)
 
 Hypervisor Onpromisse: ![VMware](https://api.iconify.design/file-icons:vmware.svg?color=currentColor)
 
