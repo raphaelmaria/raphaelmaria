@@ -42,7 +42,10 @@ Designer Gráfico:
   
   
 # Empresas que já atuei:
-<img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/BioRitmo.png" alt="bioritmo" height="30" width="30")   
+<a>
+<img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/BioRitmo.png" alt="bioritmo" height="30" width="30")
+</a>
+
 ![ION](https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/ION.png)   
 ![IT Universe](https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/ITUniverse.png)
 ![LOFT](https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/Loft.png)   ![Mazzatech](https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/Mazza.png)   ![Nomah](https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/Nomah.png)
