@@ -17,11 +17,21 @@ Formado em Tecnológia de Redes e Computadores, atuo no mercado de tecnológia c
         <img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Social_Media/insta.png" alt="instagram">
 </a>
   
-# Ferramentas e Linguagens que domino:
-## Programação
-  ![Powershell]() ![Shell]()  ![Markdown]()
-  
 ## Ferramentas
+OS (Desktop e Servidores): [Windows]() [Linux]() [MacOSX]()
+Programção: ![Powershell]() ![Shell]()  ![Markdown]() ![Python]()
+Cloud: ![Microsoft Azure]() ![Amazon AWS]() ![Google Cloud]()
+Orquestração: ![Ansible]() [TerraForm]() [Jenkins]()
+Hypervisor Onpromisse: ![VMware]() ![Ovirt]() ![Proxmox]()
+
+Outras:
+![Docker]() ![Git]() ![Github]() ![VS Code]() ![ReptIT]()
+
+Designer Gráfico:
+![Adobe Photoshop]() ![Adobe Illustrator]() ![Adobe Premiere]() ![Adobe After Effects]() ![Adobe InDesign]() ![Krita]() ![Natron]() ![Autodesk Maya]() ![Blackmagic DaVinci]() ![OBS Studio]()
+
+
+
   
   
 # Empresas que já atuei:
