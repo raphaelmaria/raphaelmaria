@@ -31,13 +31,13 @@ Formado em Tecnológia de Redes e Computadores, atuo no mercado de tecnológia c
 <table>
  <tr>
   <td>
-   <img src="https://imgur.com/xGZD95L" alt="linkedin" height="100px" width="100px"> ION Tecnológia
+   <img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/ion.jpg" alt="linkedin" height="100px" width="100px"> ION Tecnológia
   </td>
   <td>
-   <img src="https://imgur.com/xGZD95L" alt="linkedin" height="100px" width="100px"> ION Tecnológia
+   <img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/BioRitmoLogo.png" alt="linkedin" height="100px" width="100px"> Bio Ritmo
   </td>
   <td>
-   <img src="https://imgur.com/xGZD95L" alt="linkedin" height="100px" width="100px"> ION Tecnológia
+   <img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/SmartFit.png" alt="linkedin" height="100px" width="100px"> Smart Fit
   </td>
  </tr>
  <tr>
