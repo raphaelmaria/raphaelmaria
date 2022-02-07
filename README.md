@@ -43,7 +43,7 @@ Designer Gráfico:
   
 # Empresas que já atuei:
 <a>
-<img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/BioRitmo.png" alt="bioritmo" height="150" width="100")
+<img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/BioRitmo.png" alt="bioritmo" height="100" width="140")
 </a>
 
 ![ION](https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/ION.png)   
