@@ -61,10 +61,4 @@ Designer Gráfico:
  </table>
 
 # Vem jogar comigo:
-<table>
-  <tr>
-    <td><a href="https://social.xbox.com/FawGamer#4107" rel="nofollow noreferrer">
-        <img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Social_Media/xbox-logo.png" alt="" height="30" width="30">
- </a> &nbsp;</td>
-  </tr>
-</table>
+![FawGamer#4107](https://api.iconify.design/mdi:microsoft-xbox.svg?color=currentColor) |  ![BrickSlow](https://api.iconify.design/cib:playstation4.svg?color=currentColor) | ![FawGamer#5497](https://api.iconify.design/mdi:discord.svg?color=currentColor)
