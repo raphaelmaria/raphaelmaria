@@ -42,7 +42,9 @@ Designer Gráfico:
   
   
 # Empresas que já atuei:
-![Bio Ritmo](https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/BioRitmo.png)   ![ION](https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/ION.png)   ![IT Universe](https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/ITUniverse.png)
+<img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/BioRitmo.png" alt="bioritmo" height="30" width="30")   
+![ION](https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/ION.png)   
+![IT Universe](https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/ITUniverse.png)
 ![LOFT](https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/Loft.png)   ![Mazzatech](https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/Mazza.png)   ![Nomah](https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/Nomah.png)
 ![PHS Brasil](https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/PHS.png)   ![Smart Fit](https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/SmartFit.png)   ![WJTI](https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/WJTI.png)
 ![Sonda](https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/SondaIT.png)
