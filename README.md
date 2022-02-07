@@ -4,7 +4,7 @@
 Formado em Tecnológia de Redes e Computadores, atuo no mercado de tecnológia como consultor e técnico na área de infraestrutura com serviços de suporte, treinamento e consultor de novas tecnologias.
    
 # Como entrar em contato:
-  <a href="https://www.facebook.com/fawgamer" rel="nofollow noreferrer">
+ <a href="https://www.facebook.com/fawgamer" rel="nofollow noreferrer">
       <img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Social_Media/facebook.png" alt="facebook" height="30" width="30">
  </a> &nbsp; 
  <a href="https://twitter.com/RaphaelOMaria" rel="nofollow noreferrer">
@@ -27,7 +27,7 @@ Programção: ![Powershell]() ![Shell]()  ![Markdown]() ![Python]()
 
 Cloud: ![Microsoft Azure]() ![Amazon AWS]() ![Google Cloud]()
 
-Orquestração: ![Ansible]() [TerraForm]() [Jenkins]()
+Orquestração: ![Ansible](logos:ansible) [TerraForm]() [Jenkins]()
 
 Hypervisor Onpromisse: ![VMware]() ![Ovirt]() ![Proxmox]()
 
@@ -41,7 +41,7 @@ Designer Gráfico:
 
   
   
-# Empresas que já atuei:
+# Portifólio:
 <table border="1">
   <tr>
     <td><img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/BioRitmo.png" alt="bioritmo" height="100" width="140"></td>
@@ -62,4 +62,4 @@ Designer Gráfico:
     <td><img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/WJTI.png" alt="" height="100" width="140"></td>
   </tr>
 </table>
-  
+
