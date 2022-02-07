@@ -4,19 +4,18 @@
 Formado em Tecnológia de Redes e Computadores, atuo no mercado de tecnológia como consultor e técnico na área de infraestrutura com serviços de suporte, treinamento e consultor de novas tecnologias.
    
 # Como entrar em contato:
-  
-    <a href="https://www.facebook.com/fawgamer" rel="nofollow noreferrer">
+  <a href="https://www.facebook.com/fawgamer" rel="nofollow noreferrer">
       <img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Social_Media/fb.png" alt="facebook">
-    </a> &nbsp; 
-    <a href="https://twitter.com/RaphaelOMaria" rel="nofollow noreferrer">
+ </a> &nbsp; 
+ <a href="https://twitter.com/RaphaelOMaria" rel="nofollow noreferrer">
         <img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Social_Media/twitter.png" alt="twitter">
-    </a> &nbsp;
-    <a href="https://www.linkedin.com/in/raphaelaomaria/" rel="nofollow noreferrer">
+ </a> &nbsp;
+ <a href="https://www.linkedin.com/in/raphaelaomaria/" rel="nofollow noreferrer">
         <img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Social_Media/in.png" alt="linkedin">
-    </a> &nbsp;
-    <a href="https://www.instagram.com/raphaelomaria/" rel="nofollow noreferrer">
+</a> &nbsp;
+<a href="https://www.instagram.com/raphaelomaria/" rel="nofollow noreferrer">
         <img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Social_Media/insta.png" alt="instagram">
-    </a>
+</a>
   
 # Ferramentas e Linguagens que domino:
 ## Programação
