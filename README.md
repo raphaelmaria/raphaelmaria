@@ -45,23 +45,21 @@ Designer Gráfico:
 <table border="1">
   <tr>
     <td><img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/BioRitmo.png" alt="bioritmo" height="100" width="140"></td>
-    <td>
-    </td>
-    <td>
-    </td>
-  </tr>  
+    <td><img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/ION.png" alt="ion" height="100" width="140"></td>
+    <td><img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/SondaIT.png" alt="sonda" height="100" width="140"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/ITUniverse.png" alt="" height="100" width="140"></td>
+    <td><img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/Loft.png" alt="" height="100" width="140"></td>
+    <td><img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/Mazza.png" alt="" height="100" width="140"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/Nomah.png" alt="" height="100" width="140"></td>
+    <td><img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/PHS.png" alt="" height="100" width="140"></td>
+    <td><img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/SmartFit.png" alt="" height="100" width="140"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/WJTI.png" alt="" height="100" width="140"></td>
+  </tr>
 </table>
-
-
-<a>
-
-</a>  &nbsp;
-<a>
-<img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/ION.png" alt="ion" height="100" width="140">
-</a>
-  ![IT Universe](https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/ITUniverse.png)
-![LOFT](https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/Loft.png)   ![Mazzatech](https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/Mazza.png)   ![Nomah](https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/Nomah.png)
-![PHS Brasil](https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/PHS.png)   ![Smart Fit](https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/SmartFit.png)   ![WJTI](https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/WJTI.png)
-![Sonda](https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/SondaIT.png)
-
   
