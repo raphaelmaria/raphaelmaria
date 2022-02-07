@@ -65,5 +65,5 @@ Designer Gráfico:
 
 
 ## Vem jogar comigo:
-[![FawGamer#4107](https://api.iconify.design/mdi:microsoft-xbox.svg?color=currentColor)](https://account.xbox.com/pt-BR/Profile?xr=shellnav) |  [![BrickSlow](https://api.iconify.design/cib:playstation4.svg?color=currentColor)](PSN ID: BrickSlow) | [![Discord](https://api.iconify.design/mdi:discord.svg?color=currentColor)](https://discord.com/channels/521298356820115466/521298356820115472)
+[![FawGamer#4107](https://api.iconify.design/mdi:microsoft-xbox.svg?color=currentColor)](https://account.xbox.com/pt-BR/Profile?xr=shellnav) |  [![PSN](https://api.iconify.design/cib:playstation4.svg?color=currentColor)](BrickSlow) | [![Discord](https://api.iconify.design/mdi:discord.svg?color=currentColor)](https://discord.com/channels/521298356820115466/521298356820115472)
 
