@@ -60,7 +60,7 @@ Designer Gráfico:
   </tr>
     <tr>
     <td><img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/flash_marca_positiva_RGB.png" alt="" height="100" width="140"></td>
-    <td><img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/logo-bionexo.jpeg" alt="" height="100" width="140"></td>
+    <td><img src="https://github.com/raphaelmaria/raphaelmaria/blob/main/Empresa_Logos/logo-bionexo.png" alt="" height="100" width="140"></td>
   </tr>
  </table>
  
