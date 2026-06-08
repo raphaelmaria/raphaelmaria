@@ -1,0 +1,366 @@
+/* Reset and base styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #fafafa;
+}
+
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+/* Header styles */
+header {
+    background: #2c3e50;
+    color: #fff;
+    padding: 1rem 0;
+}
+
+header .container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 1.8rem;
+}
+
+header p {
+    margin: 0.5rem 0 0;
+    opacity: 0.9;
+    font-size: 1rem;
+}
+
+header nav ul {
+    display: flex;
+    list-style: none;
+    gap: 2rem;
+}
+
+header nav a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s;
+}
+
+header nav a:hover {
+    color: #ecf0f1;
+}
+
+/* Hero section */
+.hero {
+    background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%);
+    color: #fff;
+    text-align: center;
+    padding: 4rem 0;
+}
+
+.hero h2 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+.hero p {
+    font-size: 1.25rem;
+    margin-bottom 2rem;
+    opacity: 0.9;
+}
+
+.btn-primary, .btn-secondary {
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    border-radius: 4px;
+    font-weight: 600;
+    text-decoration: none;
+    transition: background 0.3s, transform 0.2s;
+}
+
+.btn-primary {
+    background: #fff;
+    color: #2575fc;
+}
+
+.btn-primary:hover {
+    background: #e6e6e6;
+    transform: translateY(-2px);
+}
+
+.btn-secondary {
+    background: transparent;
+    color: #fff;
+    border: 2px solid #fff;
+}
+
+.btn-secondary:hover {
+    background: rgba(255,255,255,0.1);
+    transform: translateY(-2px);
+}
+
+/* Section styles */
+.section {
+    padding: 4rem 0;
+}
+
+.bg-light {
+    background: #f8f9fa;
+}
+
+.section h2 {
+    text-align: center;
+    margin-bottom: 2.5rem;
+    color: #2c3e50;
+    position: relative;
+}
+
+.section h2::after {
+    content: '';
+    display: block;
+    width: 60px;
+    height: 4px;
+    background: #2575fc;
+    margin: 0.5rem auto 0;
+    border-radius: 2px;
+}
+
+/* Services */
+.services-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 2rem;
+}
+
+.service-card {
+    background: #fff;
+    border-radius: 8px;
+    padding: 2rem;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.service-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.15);
+}
+
+.service-card h3 {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color: #2c3e50;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.service-card h3::before {
+    content: '';
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: #2575fc;
+    mask-repeat: no-repeat;
+    mask-size: contain;
+    /* Using a simple square for now; can replace with SVG icon */
+}
+
+/* Service list */
+.service-card ul {
+    list-style: none;
+}
+
+.service-card li {
+    margin-bottom: 0.75rem;
+    padding-left: 1.5rem;
+    position: relative;
+}
+
+.service-card li::before {
+    content: '▹';
+    position: absolute;
+    left: 0;
+    color: #2575fc;
+}
+
+/* Testimonials */
+.testimonials {
+    display: grid;
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+.testimonials blockquote {
+    background: #fff;
+    border-left: 4px solid #2575fc;
+    padding: 1.5rem;
+    border-radius: 0 8px 8px 0;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    position: relative;
+}
+
+.testimonials blockquote p {
+    font-style: italic;
+    margin-bottom: 1rem;
+}
+
+.testimonials blockquote footer {
+    margin-top: 1rem;
+    font-weight: 600;
+    color: #2c3e50;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.testimonials blockquote footer::before {
+    content: '— ';
+}
+
+/* Blog preview */
+.posts-preview {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+.post-card {
+    background: #fff;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.post-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.15);
+}
+
+.post-card h3 {
+    margin: 0;
+    padding: 1.5rem;
+    background: #f8f9fa;
+    font-size: 1.15rem;
+}
+
+.post-card .post-date {
+    display: block;
+    padding: 0 1.5rem 0.75rem;
+    font-size: 0.9rem;
+    color: #7f8c8d;
+}
+
+.post-card p {
+    padding: 0 1.5rem 1.5rem;
+    color: #555;
+}
+
+.post-card a {
+    display: inline-block;
+    margin: 0 1.5rem 1.5rem;
+    color: #2575fc;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.post-card a:hover {
+    text-decoration: underline;
+}
+
+/* Contact */
+#contato p {
+    margin-bottom: 1rem;
+    line-height: 1.8;
+}
+
+#contato a {
+    color: #2575fc;
+    text-decoration: none;
+}
+
+#contato a:hover {
+    text-decoration: underline;
+}
+
+/* Footer */
+footer {
+    background: #2c3e50;
+    color: #fff;
+    text-align: center;
+    padding: 2rem 0;
+    font-size: 0.9rem;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    header .container {
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    header nav ul {
+        margin-top: 1.5rem;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    
+    .hero h2 {
+        font-size: 2rem;
+    }
+    
+    .hero p {
+        font-size: 1.1rem;
+    }
+    
+    .section {
+        padding: 2.5rem 0;
+    }
+    
+    .section h2 {
+        margin-bottom: 2rem;
+        font-size: 1.8rem;
+    }
+    
+    .service-card, .post-card {
+        padding: 1.5rem;
+    }
+    
+    .testimonials blockquote {
+        padding: 1.25rem;
+    }
+}
+
+/* Accessibility: focus outlines */
+a:focus, button:focus, [tabindex]:focus {
+    outline: 2px solid #2575fc;
+    outline-offset: 2px;
+}
+
+/* Print styles */
+@media print {
+    body {
+        background: #fff;
+        color: #000;
+    }
+    
+    .hero, header nav, .btn-primary, .btn-secondary, footer {
+        display: none;
+    }
+    
+    .container {
+        width: 100%;
+    }
+}
