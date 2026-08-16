@@ -1,0 +1,20 @@
+# Windows
+https://rmtechfiles.s3.amazonaws.com/Applications/RemoteAccess/win/TeamViewerQS.exe
+https://rmtechfiles.s3.amazonaws.com/Applications/RemoteAccess/win/AnyDesk.exe
+https://rmtechfiles.s3.amazonaws.com/Applications/RemoteAccess/win/UltraViewer.exe
+https://getscreen.me/download/getscreen.exe
+https://github.com/rustdesk/rustdesk/releases/download/1.4.5/rustdesk-1.4.5-x86_64.msi
+
+# OSx
+https://rmtechfiles.s3.amazonaws.com/Applications/RemoteAccess/mac/TeamViewerQS.dmg
+https://rmtechfiles.s3.amazonaws.com/Applications/RemoteAccess/mac/anydesk.dmg
+https://getscreen.me/download/Getscreen.me.dmg
+https://raphaelmaria.com.br/
+
+# Linux
+https://rmtechfiles.s3.amazonaws.com/Applications/RemoteAccess/lnx/teamviewer_15.2.2756_amd64.deb
+https://rmtechfiles.s3.amazonaws.com/Applications/RemoteAccess/lnx/teamviewer_15.2.2756.x86_64.rpm
+https://rmtechfiles.s3.amazonaws.com/Applications/RemoteAccess/lnx/anydesk_5.5.1-1_amd64.deb
+https://rmtechfiles.s3.amazonaws.com/Applications/RemoteAccess/lnx/anydesk-5.5.1-1.el7.x86_64.rpm
+https://getscreen.me/download/getscreen.me.deb
+https://getscreen.me/download/getscreen.me.rpm
