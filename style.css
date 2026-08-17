@@ -432,6 +432,46 @@ body {
     margin-bottom: 1.5rem;
 }
 
+/* Remote support download links */
+.download-list {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 0.7rem;
+}
+
+.download-btn {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+    border: 1px solid var(--bp-border);
+    padding: 0.75rem 1rem;
+    text-decoration: none;
+    color: var(--bp-text-dark);
+    font-family: var(--font-body);
+    font-size: 0.9rem;
+    font-weight: 600;
+    transition: var(--transition);
+}
+
+.download-btn:hover {
+    border-color: var(--bp-accent);
+    background: rgba(15, 118, 110, 0.05);
+    color: var(--bp-accent);
+}
+
+.download-btn .dl-icon {
+    font-family: var(--font-heading);
+    font-size: 0.72rem;
+    color: var(--bp-text-muted);
+    white-space: nowrap;
+}
+
+.download-btn:hover .dl-icon {
+    color: var(--bp-accent);
+}
+
 /* Spec sheet-like pricing table inside card */
 .blueprint-table {
     border: 1px solid var(--bp-border);
