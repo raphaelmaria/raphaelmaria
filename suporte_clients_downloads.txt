@@ -1,20 +1,35 @@
-# Windows
-https://rmtechfiles.s3.amazonaws.com/Applications/RemoteAccess/win/TeamViewerQS.exe
-https://rmtechfiles.s3.amazonaws.com/Applications/RemoteAccess/win/AnyDesk.exe
-https://rmtechfiles.s3.amazonaws.com/Applications/RemoteAccess/win/UltraViewer.exe
-https://getscreen.me/download/getscreen.exe
-https://github.com/rustdesk/rustdesk/releases/download/1.4.5/rustdesk-1.4.5-x86_64.msi
+# Links de acesso remoto publicados em https://raphaelmaria.com.br/#suporte-remoto
+# Manter este arquivo em sincronia com a seção "Suporte Remoto" do index.html.
 
-# OSx
-https://rmtechfiles.s3.amazonaws.com/Applications/RemoteAccess/mac/TeamViewerQS.dmg
-https://rmtechfiles.s3.amazonaws.com/Applications/RemoteAccess/mac/anydesk.dmg
+# Windows
+https://download.teamviewer.com/download/TeamViewerQS_x64.exe
+https://download.anydesk.com/AnyDesk.exe
+https://www.ultraviewer.net/pt/download.html
+https://getscreen.me/download/getscreen.exe
+https://github.com/rustdesk/rustdesk/releases/download/1.5.1/rustdesk-1.5.1-x86_64.msi
+
+# macOS
+https://download.teamviewer.com/download/TeamViewerQS.dmg
+https://download.anydesk.com/anydesk.dmg
 https://getscreen.me/download/Getscreen.me.dmg
-https://raphaelmaria.com.br/
+https://github.com/rustdesk/rustdesk/releases/download/1.5.1/rustdesk-1.5.1-x86_64.dmg      (Intel)
+https://github.com/rustdesk/rustdesk/releases/download/1.5.1/rustdesk-1.5.1-aarch64.dmg     (Apple Silicon)
 
 # Linux
-https://rmtechfiles.s3.amazonaws.com/Applications/RemoteAccess/lnx/teamviewer_15.2.2756_amd64.deb
-https://rmtechfiles.s3.amazonaws.com/Applications/RemoteAccess/lnx/teamviewer_15.2.2756.x86_64.rpm
-https://rmtechfiles.s3.amazonaws.com/Applications/RemoteAccess/lnx/anydesk_5.5.1-1_amd64.deb
-https://rmtechfiles.s3.amazonaws.com/Applications/RemoteAccess/lnx/anydesk-5.5.1-1.el7.x86_64.rpm
+https://download.teamviewer.com/download/linux/teamviewer_amd64.deb
+https://download.teamviewer.com/download/linux/teamviewer.x86_64.rpm
+https://anydesk.com/pt/downloads/linux
 https://getscreen.me/download/getscreen.me.deb
 https://getscreen.me/download/getscreen.me.rpm
+https://github.com/rustdesk/rustdesk/releases/download/1.5.1/rustdesk-1.5.1-x86_64.deb
+
+# Versões anteriores (bucket S3 rmtechfiles, arquivos de 2021 - não usar mais no site)
+# https://rmtechfiles.s3.amazonaws.com/Applications/RemoteAccess/win/TeamViewerQS.exe
+# https://rmtechfiles.s3.amazonaws.com/Applications/RemoteAccess/win/AnyDesk.exe
+# https://rmtechfiles.s3.amazonaws.com/Applications/RemoteAccess/win/UltraViewer.exe
+# https://rmtechfiles.s3.amazonaws.com/Applications/RemoteAccess/mac/TeamViewerQS.dmg
+# https://rmtechfiles.s3.amazonaws.com/Applications/RemoteAccess/mac/anydesk.dmg
+# https://rmtechfiles.s3.amazonaws.com/Applications/RemoteAccess/lnx/teamviewer_15.2.2756_amd64.deb
+# https://rmtechfiles.s3.amazonaws.com/Applications/RemoteAccess/lnx/teamviewer_15.2.2756.x86_64.rpm
+# https://rmtechfiles.s3.amazonaws.com/Applications/RemoteAccess/lnx/anydesk_5.5.1-1_amd64.deb
+# https://rmtechfiles.s3.amazonaws.com/Applications/RemoteAccess/lnx/anydesk-5.5.1-1.el7.x86_64.rpm

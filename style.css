@@ -19,7 +19,16 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+html {
     scroll-behavior: smooth;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    html {
+        scroll-behavior: auto;
+    }
 }
 
 body {
@@ -522,8 +531,8 @@ body {
     margin-bottom: 1.5rem;
 }
 
-.trans-note {
-    font-size: 0.88rem !important;
+.trans-left p.trans-note {
+    font-size: 0.88rem;
     font-style: italic;
     background-color: var(--bp-bg-soft);
     padding: 1rem;
@@ -636,69 +645,6 @@ body {
 }
 
 .client-role {
-    color: var(--bp-accent);
-}
-
-/* Blueprint Blog Grid */
-.blueprint-blog-grid {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 2rem;
-}
-
-.blueprint-blog-card {
-    display: flex;
-    gap: 1rem;
-    align-items: flex-start;
-}
-
-.blueprint-blog-card .num {
-    font-family: var(--font-heading);
-    color: var(--bp-accent);
-    font-weight: 700;
-    font-size: 0.9rem;
-}
-
-.blueprint-blog-card .card-inner {
-    background-color: var(--bp-bg-card);
-    border: 1px solid var(--bp-border);
-    padding: 1.5rem;
-    flex-grow: 1;
-}
-
-.blueprint-blog-card:hover .card-inner {
-    border-color: var(--bp-text-dark);
-}
-
-.blueprint-blog-card h3 {
-    font-size: 1.1rem;
-    line-height: 1.4;
-    margin-bottom: 0.3rem;
-}
-
-.blueprint-blog-card .date {
-    font-family: var(--font-heading);
-    font-size: 0.72rem;
-    color: var(--bp-text-muted);
-    margin-bottom: 0.8rem;
-}
-
-.blueprint-blog-card .excerpt {
-    font-size: 0.85rem;
-    color: var(--bp-text-muted);
-    line-height: 1.4;
-    margin-bottom: 1.2rem;
-}
-
-.link-arrow {
-    font-family: var(--font-heading);
-    font-size: 0.78rem;
-    color: var(--bp-text-dark);
-    text-decoration: none;
-    font-weight: 700;
-}
-
-.blueprint-blog-card:hover .link-arrow {
     color: var(--bp-accent);
 }
 
@@ -833,6 +779,18 @@ body {
     background-color: var(--bp-accent);
 }
 
+.form-hint {
+    font-family: var(--font-heading);
+    font-size: 0.75rem;
+    color: var(--bp-accent);
+    margin: 0.8rem 0 0;
+    min-height: 1.2em;
+}
+
+.form-hint:empty {
+    display: none;
+}
+
 /* Footer */
 .blueprint-footer {
     background-color: var(--bp-text-dark);
@@ -869,23 +827,56 @@ body {
         width: 100%;
     }
     
-    .method-steps, .blueprint-services, .blueprint-testimonials, .blueprint-blog-grid {
+    .method-steps, .blueprint-services, .blueprint-testimonials {
         grid-template-columns: 1fr;
     }
 }
 
 @media (max-width: 768px) {
+    /* Header compacto: só logo + WhatsApp. A navegação por âncoras some,
+       a página é curta e o scroll resolve. Isso evita um header sticky
+       de ~150px roubando a tela do celular. */
+    .blueprint-header {
+        padding: 0.75rem 0;
+    }
+
     .header-container {
-        flex-direction: column;
-        gap: 1rem;
+        flex-wrap: nowrap;
+        gap: 0.75rem;
     }
-    
+
     .nav-links {
-        flex-wrap: wrap;
-        justify-content: center;
-        gap: 1rem;
+        display: none;
     }
-    
+
+    .blueprint-logo {
+        font-size: 1.05rem;
+    }
+
+    .blueprint-btn {
+        font-size: 0.72rem;
+        padding: 0.45rem 0.7rem;
+        white-space: nowrap;
+    }
+
+    .hero-section {
+        padding: 3.5rem 0;
+    }
+
+    .section {
+        padding: 3.5rem 0;
+    }
+
+    .blueprint-service-card,
+    .blueprint-form-area {
+        padding: 1.5rem;
+    }
+
+    .blueprint-stats {
+        flex-wrap: wrap;
+        gap: 1.5rem;
+    }
+
     .hero-section h1 {
         font-size: 2.2rem;
     }
