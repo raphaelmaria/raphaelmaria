@@ -86,25 +86,25 @@ Formado em **Tecnologia de Redes de Computadores**, atuo no mercado de tecnologi
 
 <table>
   <tr>
-    <td align="center" width="170" height="110" bgcolor="#ffffff"><img src="Empresa_Logos/logo_mgc_color_1.png" alt="Magalu Cloud" height="60"/></td>
-    <td align="center" width="170" height="110" bgcolor="#ffffff"><img src="Empresa_Logos/BioRitmo.png" alt="BioRitmo" height="90"/></td>
-    <td align="center" width="170" height="110" bgcolor="#ffffff"><img src="Empresa_Logos/ION.png" alt="ION" height="90"/></td>
-    <td align="center" width="170" height="110" bgcolor="#ffffff"><img src="Empresa_Logos/SondaIT.png" alt="Sonda IT" height="90"/></td>
-    <td align="center" width="170" height="110" bgcolor="#ffffff"><img src="Empresa_Logos/WJTI.png" alt="WJTI" height="90"/></td>
+    <td align="center"><img src="Empresa_Logos/tiles/logo_mgc_color_1.png" alt="Magalu Cloud" width="170"/></td>
+    <td align="center"><img src="Empresa_Logos/tiles/BioRitmo.png" alt="BioRitmo" width="170"/></td>
+    <td align="center"><img src="Empresa_Logos/tiles/ION.png" alt="ION" width="170"/></td>
+    <td align="center"><img src="Empresa_Logos/tiles/SondaIT.png" alt="Sonda IT" width="170"/></td>
+    <td align="center"><img src="Empresa_Logos/tiles/WJTI.png" alt="WJTI" width="170"/></td>
   </tr>
   <tr>
-    <td align="center" width="170" height="110" bgcolor="#ffffff"><img src="Empresa_Logos/PHS.png" alt="PHS" height="90"/></td>
-    <td align="center" width="170" height="110" bgcolor="#ffffff"><img src="Empresa_Logos/HMO.png" alt="HMO" height="90"/></td>
-    <td align="center" width="170" height="110" bgcolor="#ffffff"><img src="Empresa_Logos/ITUniverse.png" alt="IT Universe" height="90"/></td>
-    <td align="center" width="170" height="110" bgcolor="#ffffff"><img src="Empresa_Logos/Loft.png" alt="Loft" height="90"/></td>
-    <td align="center" width="170" height="110" bgcolor="#ffffff"><img src="Empresa_Logos/Mazza.png" alt="Mazza" height="90"/></td>
+    <td align="center"><img src="Empresa_Logos/tiles/PHS.png" alt="PHS" width="170"/></td>
+    <td align="center"><img src="Empresa_Logos/tiles/HMO.png" alt="HMO" width="170"/></td>
+    <td align="center"><img src="Empresa_Logos/tiles/ITUniverse.png" alt="IT Universe" width="170"/></td>
+    <td align="center"><img src="Empresa_Logos/tiles/Loft.png" alt="Loft" width="170"/></td>
+    <td align="center"><img src="Empresa_Logos/tiles/Mazza.png" alt="Mazza" width="170"/></td>
   </tr>
   <tr>
-    <td align="center" width="170" height="110" bgcolor="#ffffff"><img src="Empresa_Logos/SmartFit.png" alt="Smart Fit" height="90"/></td>
-    <td align="center" width="170" height="110" bgcolor="#ffffff"><img src="Empresa_Logos/Nomah.png" alt="Nomah" height="90"/></td>
-    <td align="center" width="170" height="110" bgcolor="#ffffff"><img src="Empresa_Logos/O2Pos.png" alt="O2 Pos" height="90"/></td>
-    <td align="center" width="170" height="110" bgcolor="#ffffff"><img src="Empresa_Logos/flash_marca_positiva_RGB.png" alt="Flash" height="60"/></td>
-    <td align="center" width="170" height="110" bgcolor="#ffffff"><img src="Empresa_Logos/logo-bionexo.png" alt="Bionexo" height="30"/></td>
+    <td align="center"><img src="Empresa_Logos/tiles/SmartFit.png" alt="Smart Fit" width="170"/></td>
+    <td align="center"><img src="Empresa_Logos/tiles/Nomah.png" alt="Nomah" width="170"/></td>
+    <td align="center"><img src="Empresa_Logos/tiles/O2Pos.png" alt="O2 Pos" width="170"/></td>
+    <td align="center"><img src="Empresa_Logos/tiles/flash_marca_positiva_RGB.png" alt="Flash" width="170"/></td>
+    <td align="center"><img src="Empresa_Logos/tiles/logo-bionexo.png" alt="Bionexo" width="170"/></td>
   </tr>
 </table>
 </div>
@@ -120,7 +120,7 @@ Formado em **Tecnologia de Redes de Computadores**, atuo no mercado de tecnologi
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelmaria&theme=tokyonight&hide_border=true&border_radius=12" alt="Streak"/>
+<img src="https://streak-stats.demolab.com/?user=raphaelmaria&theme=tokyonight&hide_border=true&border_radius=12" alt="Streak"/>
 
 </div>
 
