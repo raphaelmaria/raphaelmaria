@@ -1,77 +1,153 @@
-# Olá, Eu sou Raphael Maria
-  
-Formado em Tecnologia de Redes de Computadores, atuo no mercado de tecnologia como consultor e técnico na área de infraestrutura com serviços de suporte, treinamento e consultoria em novas tecnologias.
+<!-- HEADER -->
+<div align="center">
 
-🌐 Site de suporte técnico: [raphaelmaria.com.br](https://raphaelmaria.com.br)
-   
-# Como entrar em contato:
- <a href="https://www.facebook.com/fawgamer" rel="nofollow noreferrer">
-      <img src="https://raw.githubusercontent.com/raphaelmaria/raphaelmaria/main/Social_Media/facebook.png" alt="facebook" height="30" width="30">
- </a>
- <a href="https://twitter.com/RaphaelOMaria" rel="nofollow noreferrer">
-        <img src="https://raw.githubusercontent.com/raphaelmaria/raphaelmaria/main/Social_Media/twitter.png" alt="twitter" height="30" width="30">
- </a> &nbsp;
- <a href="https://www.linkedin.com/in/raphaelaomaria/" rel="nofollow noreferrer">
-        <img src="https://raw.githubusercontent.com/raphaelmaria/raphaelmaria/main/Social_Media/linkedin.png" alt="linkedin" height="30" width="30">
-</a> &nbsp;
-<a href="https://www.instagram.com/raphaelomaria/" rel="nofollow noreferrer">
-        <img src="https://raw.githubusercontent.com/raphaelmaria/raphaelmaria/main/Social_Media/instagram.png" alt="instagram" height="30" width="30">
-</a> &nbsp;
-<a href="mailto:raphael.maria@outlook.com" rel="nofollow noreferrer">
-        <img src="https://raw.githubusercontent.com/raphaelmaria/raphaelmaria/main/Social_Media/outlook.png" alt="mail" height="30" width="30">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F2027,50:203A43,100:2C5364&text=Raphael%20Maria&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Infraestrutura%20%E2%80%A2%20Cloud%20%E2%80%A2%20Automa%C3%A7%C3%A3o%20%E2%80%A2%20Seguran%C3%A7a&descSize=18&descAlignY=58&animation=fadeIn" alt="Raphael Maria" width="100%"/>
+
+<a href="https://github.com/raphaelmaria">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=36BCF7&center=true&vCenter=true&width=640&lines=Ol%C3%A1%2C+eu+sou+o+Raphael+%F0%9F%91%8B;Consultor+e+T%C3%A9cnico+de+Infraestrutura;Suporte+%E2%80%A2+Treinamento+%E2%80%A2+Consultoria;Infra+as+Code+%26+Automa%C3%A7%C3%A3o" alt="Typing SVG" />
 </a>
-  
-## Ferramentas
-OS (Desktop e Servidores): ![Windows](https://api.iconify.design/logos:microsoft-windows.svg?color=currentColor) | ![Linux](https://api.iconify.design/logos:linux-tux.svg?color=currentColor) | ![MacOSX](https://api.iconify.design/logos:macosx.svg?color=currentColor)
 
-Programação: ![Powershell](https://api.iconify.design/vscode-icons:file-type-powershell.svg?color=currentColor) ![Shell](https://api.iconify.design/cib:shell.svg?color=currentColor)  ![Markdown](https://api.iconify.design/cib:markdown.svg?color=currentColor) ![Python](https://api.iconify.design/vscode-icons:file-type-python.svg?color=currentColor)
+<br/>
 
-Cloud: ![Microsoft Azure](https://api.iconify.design/logos:azure.svg?color=currentColor) ![Amazon AWS](https://api.iconify.design/logos:aws.svg?color=currentColor) ![Google Cloud](https://api.iconify.design/vscode-icons:folder-type-gcp.svg?color=currentColor)
+<a href="https://raphaelmaria.com.br"><img src="https://img.shields.io/badge/Site_de_Suporte-raphaelmaria.com.br-0F2027?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site"/></a>
+<a href="https://www.linkedin.com/in/raphaelaomaria/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:raphael.maria@outlook.com"><img src="https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="E-mail"/></a>
+<img src="https://komarev.com/ghpvc/?username=raphaelmaria&style=for-the-badge&color=2C5364&label=VISITAS" alt="Visitas"/>
 
-Orquestração: ![Ansible](https://api.iconify.design/simple-icons:ansible.svg?color=currentColor) ![TerraForm](https://api.iconify.design/logos:terraform.svg?color=currentColor) ![Jenkins](https://api.iconify.design/vscode-icons:file-type-jenkins.svg?color=currentColor)
+</div>
 
-Hypervisor On-premises: ![VMware](https://api.iconify.design/file-icons:vmware.svg?color=currentColor)
+---
 
-Outras:
-![Docker](https://api.iconify.design/logos:docker.svg?color=currentColor) ![Git](https://api.iconify.design/ph:gitlab-logo-simple-fill.svg?color=currentColor) ![Github](https://api.iconify.design/mdi:github.svg?color=currentColor) ![VS Code](https://api.iconify.design/file-icons:vscode.svg?color=currentColor)
+## 👨‍💻 Sobre mim
 
-Designer Gráfico:
-![Adobe Photoshop](https://api.iconify.design/simple-icons:adobephotoshop.svg?color=currentColor) ![Adobe Illustrator](https://api.iconify.design/simple-icons:adobeillustrator.svg?color=currentColor) ![Adobe Premiere](https://api.iconify.design/simple-icons:adobepremierepro.svg?color=currentColor) ![Adobe After Effects](https://api.iconify.design/simple-icons:adobeaftereffects.svg?color=currentColor) ![Adobe InDesign](https://api.iconify.design/simple-icons:adobeindesign.svg?color=currentColor) ![Krita](https://api.iconify.design/simple-icons:krita.svg?color=currentColor) ![Autodesk Maya](https://api.iconify.design/vscode-icons:file-type-maya.svg?color=currentColor) ![OBS Studio](https://api.iconify.design/simple-icons:obsstudio.svg?color=currentColor)
+Formado em **Tecnologia de Redes de Computadores**, atuo no mercado de tecnologia como **consultor e técnico de infraestrutura**, com serviços de **suporte, treinamento e consultoria** em novas tecnologias.
 
+- 🛠️ Infraestrutura de desktops e servidores (Windows, Linux e macOS)
+- ☁️ Cloud, virtualização e orquestração de ambientes
+- 🔐 Hardening, automação e padronização via código
+- 🎓 Treinamentos e consultoria para equipes de TI
 
+---
 
-  
-  
-# Portfólio:
-<table border="1">
+## 🧰 Stack & Ferramentas
+
+<table align="center">
   <tr>
-    <td><img src="https://raw.githubusercontent.com/raphaelmaria/raphaelmaria/main/Empresa_Logos/BioRitmo.png" alt="bioritmo" height="100" width="140"></td>
-    <td><img src="https://raw.githubusercontent.com/raphaelmaria/raphaelmaria/main/Empresa_Logos/ION.png" alt="ion" height="100" width="140"></td>
-    <td><img src="https://raw.githubusercontent.com/raphaelmaria/raphaelmaria/main/Empresa_Logos/SondaIT.png" alt="sonda" height="100" width="140"></td>
-    <td><img src="https://raw.githubusercontent.com/raphaelmaria/raphaelmaria/main/Empresa_Logos/WJTI.png" alt="" height="100" width="140"></td>
-    <td><img src="https://raw.githubusercontent.com/raphaelmaria/raphaelmaria/main/Empresa_Logos/PHS.png" alt="" height="100" width="140"></td>
-    <td><img src="https://raw.githubusercontent.com/raphaelmaria/raphaelmaria/main/Empresa_Logos/HMO.png" alt="" height="100" width="140"></td>
+    <td align="center"><b>🖥️ Sistemas Operacionais</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=windows,linux,apple&perline=8" alt="OS"/>
+    </td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/raphaelmaria/raphaelmaria/main/Empresa_Logos/ITUniverse.png" alt="" height="100" width="140"></td>
-    <td><img src="https://raw.githubusercontent.com/raphaelmaria/raphaelmaria/main/Empresa_Logos/Loft.png" alt="" height="100" width="140"></td>
-    <td><img src="https://raw.githubusercontent.com/raphaelmaria/raphaelmaria/main/Empresa_Logos/Mazza.png" alt="" height="100" width="140"></td>
-    <td><img src="https://raw.githubusercontent.com/raphaelmaria/raphaelmaria/main/Empresa_Logos/SmartFit.png" alt="" height="100" width="140"></td>
-    <td><img src="https://raw.githubusercontent.com/raphaelmaria/raphaelmaria/main/Empresa_Logos/Nomah.png" alt="" height="100" width="140"></td>
-    <td><img src="https://raw.githubusercontent.com/raphaelmaria/raphaelmaria/main/Empresa_Logos/O2Pos.png" alt="" height="100" width="140"></td>
+    <td align="center"><b>💻 Programação</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=powershell,bash,python,md,js&perline=8" alt="Programação"/>
+    </td>
   </tr>
-    <tr>
-    <td><img src="https://raw.githubusercontent.com/raphaelmaria/raphaelmaria/main/Empresa_Logos/flash_marca_positiva_RGB.png" alt="" height="100" width="140"></td>
-    <td><img src="https://raw.githubusercontent.com/raphaelmaria/raphaelmaria/main/Empresa_Logos/logo-bionexo.png" alt="" height="100" width="140"></td>
-       <td><img src="https://media.glassdoor.com/sqll/4369534/rei-do-pitaco-squareLogo-1635168403511.png" alt="" height="100" width="140"></td>
+  <tr>
+    <td align="center"><b>☁️ Cloud</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=azure,aws,gcp&perline=8" alt="Cloud"/>
+    </td>
   </tr>
- </table>
- 
-# Atualizações
-[![Raphael Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaelmaria)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelmaria&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <tr>
+    <td align="center"><b>⚙️ Orquestração</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=ansible,terraform,jenkins&perline=8" alt="Orquestração"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🗄️ Hypervisor</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=vmware&perline=8" alt="VMware"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🧩 Outras</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,git,gitlab,github,vscode,grafana&perline=8" alt="Outras"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🎨 Design Gráfico</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,idesign,krita,maya,obs&perline=8" alt="Design"/>
+    </td>
+  </tr>
+</table>
 
+---
 
-## Vem jogar comigo:
-[![FawGamer#4107](https://api.iconify.design/mdi:microsoft-xbox.svg?color=currentColor)](https://account.xbox.com/pt-BR/Profile?xr=shellnav) |  ![PSN](https://api.iconify.design/cib:playstation4.svg?color=currentColor)BrickSlow | [![Discord](https://api.iconify.design/mdi:discord.svg?color=currentColor)](https://discord.com/channels/521298356820115466/521298356820115472)
+## 🏢 Portfólio
 
+<div align="center">
+<sub>Empresas e clientes que confiaram no meu trabalho</sub>
+<br/><br/>
+
+<table>
+  <tr>
+    <td align="center" width="170" height="110" bgcolor="#ffffff"><img src="Empresa_Logos/logo_mgc_color_1.png" alt="Magalu Cloud" height="60"/></td>
+    <td align="center" width="170" height="110" bgcolor="#ffffff"><img src="Empresa_Logos/BioRitmo.png" alt="BioRitmo" height="90"/></td>
+    <td align="center" width="170" height="110" bgcolor="#ffffff"><img src="Empresa_Logos/ION.png" alt="ION" height="90"/></td>
+    <td align="center" width="170" height="110" bgcolor="#ffffff"><img src="Empresa_Logos/SondaIT.png" alt="Sonda IT" height="90"/></td>
+    <td align="center" width="170" height="110" bgcolor="#ffffff"><img src="Empresa_Logos/WJTI.png" alt="WJTI" height="90"/></td>
+  </tr>
+  <tr>
+    <td align="center" width="170" height="110" bgcolor="#ffffff"><img src="Empresa_Logos/PHS.png" alt="PHS" height="90"/></td>
+    <td align="center" width="170" height="110" bgcolor="#ffffff"><img src="Empresa_Logos/HMO.png" alt="HMO" height="90"/></td>
+    <td align="center" width="170" height="110" bgcolor="#ffffff"><img src="Empresa_Logos/ITUniverse.png" alt="IT Universe" height="90"/></td>
+    <td align="center" width="170" height="110" bgcolor="#ffffff"><img src="Empresa_Logos/Loft.png" alt="Loft" height="90"/></td>
+    <td align="center" width="170" height="110" bgcolor="#ffffff"><img src="Empresa_Logos/Mazza.png" alt="Mazza" height="90"/></td>
+  </tr>
+  <tr>
+    <td align="center" width="170" height="110" bgcolor="#ffffff"><img src="Empresa_Logos/SmartFit.png" alt="Smart Fit" height="90"/></td>
+    <td align="center" width="170" height="110" bgcolor="#ffffff"><img src="Empresa_Logos/Nomah.png" alt="Nomah" height="90"/></td>
+    <td align="center" width="170" height="110" bgcolor="#ffffff"><img src="Empresa_Logos/O2Pos.png" alt="O2 Pos" height="90"/></td>
+    <td align="center" width="170" height="110" bgcolor="#ffffff"><img src="Empresa_Logos/flash_marca_positiva_RGB.png" alt="Flash" height="60"/></td>
+    <td align="center" width="170" height="110" bgcolor="#ffffff"><img src="Empresa_Logos/logo-bionexo.png" alt="Bionexo" height="30"/></td>
+  </tr>
+</table>
+</div>
+
+---
+
+## 📊 Atividade no GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=raphaelmaria&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelmaria&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Langs"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelmaria&theme=tokyonight&hide_border=true&border_radius=12" alt="Streak"/>
+
+</div>
+
+---
+
+## 🎮 Vem jogar comigo
+
+<div align="center">
+
+<a href="https://account.xbox.com/pt-BR/Profile?xr=shellnav"><img src="https://img.shields.io/badge/Xbox-FawGamer%234107-107C10?style=for-the-badge&logo=xbox&logoColor=white" alt="Xbox"/></a>
+<img src="https://img.shields.io/badge/PSN-BrickSlow-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PSN"/>
+<a href="https://discord.com/channels/521298356820115466/521298356820115472"><img src="https://img.shields.io/badge/Discord-Entrar-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📬 Vamos conversar?
+
+<a href="https://www.facebook.com/fawgamer"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<a href="https://twitter.com/RaphaelOMaria"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://www.linkedin.com/in/raphaelaomaria/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/raphaelomaria/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="mailto:raphael.maria@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Outlook"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2C5364,50:203A43,100:0F2027&section=footer" width="100%" alt="footer"/>
+
+</div>
