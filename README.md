@@ -57,9 +57,9 @@ Formado em **Tecnologia de Redes de Computadores**, atuo no mercado de tecnologi
     </td>
   </tr>
   <tr>
-    <td align="center"><b>🗄️ Hypervisor</b></td>
+    <td align="center"><b>🗄️ Hypervisors</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=vmware&perline=8" alt="VMware"/>
+      <table><tr><td align="center" width="80"><img src="Tools_Logos/hypervisors/kvm-logo.png" alt="KVM" height="40"/><br/><sub>KVM</sub></td><td align="center" width="80"><img src="Tools_Logos/hypervisors/vmware.svg" alt="VMware" height="40"/><br/><sub>VMware</sub></td><td align="center" width="80"><img src="Tools_Logos/hypervisors/hyperv.svg" alt="Hyper-V" height="40"/><br/><sub>Hyper-V</sub></td><td align="center" width="80"><img src="Tools_Logos/hypervisors/proxmox.png" alt="Proxmox" height="40"/><br/><sub>Proxmox</sub></td><td align="center" width="80"><img src="Tools_Logos/hypervisors/oVirt-Logo.svg" alt="oVirt" height="40"/><br/><sub>oVirt</sub></td><td align="center" width="80"><img src="Tools_Logos/hypervisors/citrix.svg" alt="Citrix" height="40"/><br/><sub>Citrix</sub></td></tr></table>
     </td>
   </tr>
   <tr>
